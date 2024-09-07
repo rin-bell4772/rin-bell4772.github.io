@@ -1,0 +1,160 @@
+body { 
+    margin: 0px;
+    background-color: #BED7DC;
+}
+nav {
+    display: flex;
+    justify-content:space-between;
+    background-color: #E5DDC5;
+    margin: 0 5px;
+    border-radius: 10px;
+}
+nav p {
+    margin: 10px;
+    border: solid #BED7DC;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: white;
+}
+footer {
+    background-color: #E5DDC5;
+}
+
+.splash {
+    h1 {
+        font-family: "Playwrite AU SA", cursive;
+        font-optical-sizing: auto;
+        font-style: normal;
+        color: #40a3c4;
+    }
+    img {
+        display: block;
+        margin: auto;
+        border-radius: 5px;
+    }
+    #address {
+        font-family: "Playwrite AU SA", cursive;
+        font-optical-sizing: auto;
+        font-style: normal;
+    }
+    #tag_line{
+        font-family: "Beiruti", sans-serif;
+        font-optical-sizing: auto;
+        font-size: large;
+    }
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+hr {
+    border: 4px solid #E5DDC5;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: "Playwrite AU SA", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: x-large;
+    color: #40a3c4;
+}
+section {
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: "Beiruti", sans-serif;
+    font-optical-sizing: auto;
+    font-size: x-large;
+    ul {
+        list-style-image: url("../images/icons8-cloud-30.png");
+    }
+    dl {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        dd {
+           text-align: end; 
+        }
+    }
+}
+
+a {
+    color: #e85076;
+    text-decoration: none;
+}
+a:hover {
+    color: #f2003c;
+}
+
+.three-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    img {
+        width: 150px;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
+}
+
+.card {
+    background-color: #D1E9F6;
+    margin: 5px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 10px;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  .one-col {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    font-family: "Beiruti", sans-serif;
+    font-optical-sizing: auto;
+    font-size: x-large;
+    font-weight: bold;
+    color:#40a3c4;
+    input {
+        width: 35%;
+        margin: auto;
+        padding: 5px;
+    }
+    input:focus {
+        border: 3px solid #D1E9F6;
+    }
+    textarea {
+        width: 75%;
+        margin: auto;
+        resize: none;
+    }
+    textarea:focus {
+        border: 3px solid #D1E9F6;
+    }
+    input[type=submit] {
+        margin: 10px auto;
+        font-family: "Beiruti", sans-serif;
+        font-optical-sizing: auto;
+        font-size: x-large;   
+        font-weight: bold;
+        background-color: #BED7DC;
+        border-radius: 10px;
+    }
+    input[type=submit]:hover {
+        transition: 0.3s;
+        background-color: #40a3c4;
+    }
+  }
