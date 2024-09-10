@@ -16,8 +16,25 @@ nav p {
     padding: 5px;
     background-color: white;
 }
+#contact:hover {
+    transition: 0.3s;
+    background-color: #D1E9F6;
+}
 footer {
+    margin: 0px 10px;
+    border: solid #BED7DC;
+    border-radius: 10px;
+    padding: 5px;
     background-color: #E5DDC5;
+    display: flex;
+    justify-content: center;
+    p{
+        margin: 0px 20px;
+        border: solid #BED7DC;
+        background-color: #D1E9F6;
+        border-radius: 10px;
+        padding: 5px;
+    }
 }
 
 .splash {
