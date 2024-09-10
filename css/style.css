@@ -47,8 +47,8 @@ footer {
     img {
         display: block;
         margin: auto;
-        border-radius: 5px;
         border: solid #D1E9F6 5px;
+        border-radius: 5px;
     }
     #address {
         font-family: "Playwrite AU SA", cursive;
