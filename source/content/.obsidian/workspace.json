@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/About Site.md",
+                "file": "about/About Me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Site"
+              "title": "About Me"
             }
           }
         ]
@@ -181,15 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "269a3dd1e90cf4de",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "about/About Site.md",
     "about/About Me.md",
     "about/Resume - v1.1.pdf",
     "articles/Why is Privacy Important?.md",
     "articles/How do I Increase My Privacy?.md",
     "bandit/Level 1.md",
     "index.md",
-    "about/About Site.md",
     "bandit/+Bandit+.md",
     "bandit/Level 0.md",
     "articles",
