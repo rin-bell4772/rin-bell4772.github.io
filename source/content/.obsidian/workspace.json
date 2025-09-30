@@ -181,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "269a3dd1e90cf4de",
   "lastOpenFiles": [
+    "bandit/+Bandit+.md",
     "about/About Site.md",
     "about/About Me.md",
     "about/Resume - v1.1.pdf",
@@ -190,7 +191,6 @@
     "articles/How do I Increase My Privacy?.md",
     "bandit/Level 1.md",
     "index.md",
-    "bandit/+Bandit+.md",
     "bandit/Level 0.md",
     "articles",
     "notes/ssh.md",

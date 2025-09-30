@@ -14,5 +14,3 @@ Here are some things I care about (that I am willing to publish on the internet)
 - cyber security
 - ethical use of technology
 - open-source software
-
-![[Resume - v1.1.pdf]]
